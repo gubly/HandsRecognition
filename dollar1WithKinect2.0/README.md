@@ -16,7 +16,7 @@
 
 ## 简介
 
-此项目基于Kinect 2.0实现，使用中值滤波等滤波方式来给Kinect收集到的手的位置数据降噪，使用[$1 Unistroke Recognizer][1]算法实现手势识别。
+此项目基于Kinect 2.0实现，使用中值滤波等滤波方法来给Kinect收集到的手的位置数据降噪，使用[$1 Unistroke Recognizer][1]算法实现手势识别。
 
 
 [1]: http://depts.washington.edu/madlab/proj/dollar/index.html
